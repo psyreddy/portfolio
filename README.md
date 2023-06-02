@@ -1,2 +1,2 @@
-# simple-cv
-This is my personal portfolio website made of pure html and little css
+# Portfolio
+This is source code for my personal portfolio website created using HTML and little CSS
