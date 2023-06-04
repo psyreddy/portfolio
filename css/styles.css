@@ -1,5 +1,6 @@
 td{
     text-align: center;
+    padding: 0;
 }
 span.contact{
     padding: 0 1%;
@@ -11,4 +12,3 @@ h3{
     margin: 0;
     padding: 0;
 }
-
